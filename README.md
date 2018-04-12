@@ -1,7 +1,7 @@
-Title of your plugin
+Plugin Repository
 ====================
 
-Plugin for [YOURLS](http://yourls.org) `<here: min-version if applicable>`. 
+Plugins for rcurl.org
 
 Description
 -----------
